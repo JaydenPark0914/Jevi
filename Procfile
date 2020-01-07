@@ -1,1 +1,1 @@
-web: node ./app.js Bellicosa https://entjevi.herokuapp.com
+web: node ./app.js jaydenpark0914 https://jaydenparkjevi.herokuapp.com
